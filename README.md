@@ -30,6 +30,7 @@ This is a simple MAC address spoofing tool made using Python. It is made to foll
 
 git clone https://github.com/ZeroPrime9/mac-changer.git
 cd mac-changer
+pip3 install -r requirements.txt
 python3 mac_changer.py --help
 
 ```
